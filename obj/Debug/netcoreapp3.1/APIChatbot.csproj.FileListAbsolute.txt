@@ -1,0 +1,7 @@
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.exe
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.AssemblyInfoInputs.cache
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.AssemblyInfo.cs
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.csproj.CopyComplete
