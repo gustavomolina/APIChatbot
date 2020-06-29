@@ -5,3 +5,10 @@ C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChat
 C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.csproj.CopyComplete
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.deps.json
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.runtimeconfig.json
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.runtimeconfig.dev.json
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.dll
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\bin\Debug\netcoreapp3.1\APIChatbot.pdb
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.dll
+C:\Users\Casa\source\repos\APIChatbot\APIChatbot\obj\Debug\netcoreapp3.1\APIChatbot.pdb

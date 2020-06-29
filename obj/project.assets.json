@@ -307,7 +307,7 @@
           "lib/netstandard2.0/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/81.0.4044.13800": {
+      "Selenium.WebDriver.ChromeDriver/83.0.4103.3900": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -1830,10 +1830,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/81.0.4044.13800": {
-      "sha512": "2b1bjeB0HmTw9wJ41FFcXXRTRMjf0Xm9nrlw1iK6tBTm3Rwqi5+UX9WWaj+lXp8itmmVOKmnYfq49aVDNq281w==",
+    "Selenium.WebDriver.ChromeDriver/83.0.4103.3900": {
+      "sha512": "lbVAHeSPf5E0IJNtsO5sf1rQhaA1ePoHfaA3o2XZBMsQVDOkM1WpDeTe9KyuPKabdluUvVbt7vkufxlZLCGJ6w==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/81.0.4044.13800",
+      "path": "selenium.webdriver.chromedriver/83.0.4103.3900",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1841,7 +1841,7 @@
         "driver/linux64/chromedriver",
         "driver/mac64/chromedriver",
         "driver/win32/chromedriver.exe",
-        "selenium.webdriver.chromedriver.81.0.4044.13800.nupkg.sha512",
+        "selenium.webdriver.chromedriver.83.0.4103.3900.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -5254,7 +5254,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Selenium.WebDriver >= 3.141.0",
-      "Selenium.WebDriver.ChromeDriver >= 81.0.4044.13800"
+      "Selenium.WebDriver.ChromeDriver >= 83.0.4103.3900"
     ]
   },
   "packageFolders": {
@@ -5300,7 +5300,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[81.0.4044.13800, )"
+            "version": "[83.0.4103.3900, )"
           }
         },
         "imports": [
