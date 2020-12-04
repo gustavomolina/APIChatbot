@@ -26,3 +26,13 @@
 - [x] Atualização de histórico de um “Achado”/”Perdido”
 - [x] Busca com opção de filtros
 - [x] Relatório de cruzamento de informações “Achados”/”Perdidos”, dado um categoria e um raio
+
+### 🛠 Tecnologias
+
+Para a construção deste projeto, foram utilizadas as seguintes ferramentas:
+
+- [.NET Core](https://dotnet.microsoft.com/)
+- [Entity Framework Core](https://docs.microsoft.com/pt-br/ef/core/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server)
+- [NUnit](https://nunit.org/)
+- [OData](https://www.odata.org/)
