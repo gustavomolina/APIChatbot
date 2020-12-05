@@ -4,10 +4,15 @@
 <img  src="https://img.shields.io/static/v1?label=API&message=Accurate&color=7159c1&style=for-the-badge&logo=ghost"/> 
 </a>
 
-## Tabela de conteúdos (#tabela-de-conteudo)
+##Sobre
+O projeto IFound trata-se de uma API REST para um site de achados e perdidos
+
+## Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Features](#features)
+   * [Tecnologias](#tecnologias)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -35,3 +40,11 @@ Para a construção deste projeto, foram utilizadas as seguintes ferramentas:
 - [SQL Server](https://www.microsoft.com/en-us/sql-server)
 - [NUnit](https://nunit.org/)
 - [OData](https://www.odata.org/)
+
+### Instalação
+Para instalar e rodar o projeto em sua máquina, faça os seguintes passos;
+* git clone <url-do-repositorio> na sua máquina local
+* Instalar o SQL Server LocalDB (https://docs.microsoft.com/pt-br/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15) ou seu banco de dados de preferência
+* Criei um SQL (SetUpDB.sql) para facilitar a criação das estruturas no banco, basta executá-lo
+* Mude a string de conexão com o banco no arquivo 'appsettings.json' com os seus dados de conexão
+* Mudar a string de conexão em 'appsettings.json' com os dados do seu banco
