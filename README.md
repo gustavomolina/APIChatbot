@@ -43,7 +43,7 @@ Para a construção deste projeto, foram utilizadas as seguintes ferramentas:
 
 ### Instalação
 Para instalar e rodar o projeto em sua máquina, faça os seguintes passos;
-* git clone <url-do-repositorio> na sua máquina local
+* Rode o comando "git clone 'url-do-repositorio'" na sua máquina local
 * Instalar o SQL Server LocalDB (https://docs.microsoft.com/pt-br/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15) ou seu banco de dados de preferência
 * Criei um SQL (SetUpDB.sql) para facilitar a criação das estruturas no banco, basta executá-lo
 * Mude a string de conexão com o banco no arquivo 'appsettings.json' com os seus dados de conexão
