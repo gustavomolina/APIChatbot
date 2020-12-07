@@ -4,7 +4,7 @@
 <img  src="https://img.shields.io/static/v1?label=API&message=Accurate&color=7159c1&style=for-the-badge&logo=ghost"/> 
 </a>
 
-##Sobre
+## Sobre
 O projeto IFound trata-se de uma API REST para um site de achados e perdidos
 
 ## Tabela de conteúdos
@@ -67,4 +67,11 @@ Aqui, foi utilizado o endpoint "GetAllObjects" para a demonstração dos filtros
 A seguir, fez-se uma consulta dde todos os objetos que possuiam a propriedade "CategoryId" da entidade "ObjectCategory" com valor igual a 1 (categoria de roupas). Para isso, foi adicionada a seguinte descrição à requisição:
 ?$Filter=ObjectCategory/CategoryId eq 1
 ![GIF Filtros](gifs/gif_filter_test_ifound.gif)
+
+#### Feature: Relatório de cruzamento de informações “Achados”/”Perdidos”, dado um categoria e um raio
+Neste caso para se fazer um relatório com base na categoria e na localização dos objetos, foi feita uma consulta com o seguinte filtro:
+?$Filter=ObjectCategory/CategoryId eq 3 and Object/ObjectLostLocation eq 'São José do Rio Preto / SP'
+Na demonstração, pode-se observar que foram encontrados dois produtos (tênis da Nike e Tênis da Adidas), ambos com id de categoria igual a 3 (sapatos) e tambeém ambos com localização de onde foram perdidos igual a 'São José do Rio Preto / SP'
+![GIF Relatorio](gifs/gif_report_test_ifound.gif)
+
 
