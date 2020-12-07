@@ -11,16 +11,11 @@ O projeto IFound trata-se de uma API REST para um site de achados e perdidos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Features](#features)
+   * [Features](### Features)
    * [Tecnologias](#tecnologias)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Pre Requisitos](#pre-requisitos)
+   * [Rodadando a aplicação](#instalacao)  
+   * [Testes](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -41,8 +36,8 @@ Para a construção deste projeto, foram utilizadas as seguintes ferramentas:
 - [NUnit](https://nunit.org/)
 - [OData](https://www.odata.org/)
 
-### Instalação
-Para instalar e rodar o projeto em sua máquina, faça os seguintes passos;
+### Rodando a aplicação
+Para instalar e rodar o projeto em sua máquina, siga os seguintes passos;
 * Na sua máquina local, Instale o SDK Do ASP.NET Core Versão 3.1 (https://dotnet.microsoft.com/download/dotnet-core/3.1)
 * Rode o comando "git clone 'url-do-repositorio'" na sua máquina local
 * Instalar o SQL Server LocalDB (https://docs.microsoft.com/pt-br/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15) ou seu banco de dados de preferência
